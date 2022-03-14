@@ -23,7 +23,7 @@ function test(){
 	            xhr.setRequestHeader("Authorization","Bearer " + token);
 	        },
 	        success: function (res) {
-	            alert("해당 url로 가나연?");
+	            alert("토큰 인증 성공");
 	        }
 	    });
 	

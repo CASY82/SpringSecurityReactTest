@@ -9,3 +9,6 @@ Spring Boot + Spring Security만 남기는 용도로 사용
 해당 작업물은 교육용으로 제작되므로 디자인 패턴을 신경쓴다거나 객체지향적 코딩을 하지 않았습니다.
 
 AWS DB를 사용중이므로 해당 내용이 담긴 properties는 ignore하였습니다.
+
+
+Spring Security Test 완료 (2022/03/14)
